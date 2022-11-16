@@ -60,6 +60,7 @@ class Login_Polimed:
         self.sql = "INSERT INTO tablausuarios (Usuarios, Contra) VALUE ('{0}','{1}')".format(self.NombreUsuario.get(), self.ContrasenaUsuario.get())
         
         try:
+            
             self.fcursor.execute(self.sql)
             self.bd.commit()
             messagebox.showinfo(message="Registro Realizado", title="Aviso")
@@ -236,3 +237,6 @@ if __name__ == "__main__":
 ##############################
 ####################################
 #############################
+#########################
+##############
+#####################
