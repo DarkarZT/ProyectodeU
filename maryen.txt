@@ -1,0 +1,18 @@
+hacer el modulo que resuelva la siguiente serie
+
+iterador = 0
+
+Mientras i <= 28 haga
+    iterador+=1
+    s = s+(1//1+i**2)
+    return s
+
+escribir un modulo que calcule el factorial de un numero entero menor que 40 
+
+iterador = 0 
+
+mientras iterador <= numero haga
+    iterador+=1
+    factorial= (numero-iterador)
+    resultado = numero*factorial
+    numero = factorial
