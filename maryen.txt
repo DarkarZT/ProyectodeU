@@ -16,3 +16,77 @@ mientras iterador <= numero haga
     factorial= (numero-iterador)
     resultado = numero*factorial
     numero = factorial
+
+
+#que genere el triangulo de floid
+#dada una frase la separe por palabras
+#dada una frase reemplaar un caracter
+#dada una frase generar un triangulo equilatero
+#dada una frase invertir las letras de la frase
+#invertir las palabras de las frases
+#dad una frase decir si es palindromo o no
+
+
+modulo triangulo_de_floid()
+
+    definir n, i, suma, j como entero
+    suma = 1
+
+    Escribir "ingrese numero de filas"
+    leer n
+    mientras n <2 entonces
+        escribir "Ingrese un numero de filas valido"
+    finmientras
+
+    para (i=1, n, 1) haga
+        para(j = 1, i, 1) haga
+                si suma < 10 entonces
+                    escriba suma, "  "
+                sino
+                    escriba suma, " "
+                finsi
+                suma = suma+1
+    finpara
+    Escribir "/n"
+finmodulo
+
+modulo dejar_espacios(int ne)
+    definir k como entero
+    para (k=1,ne,1) haga
+        escribir (" ")
+    finpara
+
+finmodulo
+
+modulo trianguloequilatero(definir frase como cadena)
+    definir n como entero
+    definir i como entero
+
+    n = longitud(frase)
+    mitad = n//2
+    para (i=0, n, 2) haga
+        dejar_espacios (mitad-i)
+        para (j=1, i, 1)
+            escriba(frase[j])
+        finpara
+        escribir "/n"
+    finpara
+finmodulo
+
+modulo quitar_espacios(frase como cadena)
+    definir i como entero
+    frasesinespacios [], i = 0
+    para (k=0, longitud(frase) - 1,1)
+        si frase[k] != " " entonces
+            frasesinespacios[i]= frase[k]
+            i+=1
+        finsi
+    finpara
+return (frasesinespacios)
+
+bool modulo palindroma()
+    definir n, i como entero
+    frasesinespacios= quitar_espacios(frase)
+    n= longitud(frasesinespacios)
+    para (i= 0 , n-1, 1) haga
+        si frasesinespacios[i] != frasesinespacios[n-1]
