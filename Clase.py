@@ -143,7 +143,7 @@ class Login_Polimed:
         ############################################### Pestaña 1 #############################################
         self.Titulo_de_Apartado = Label(self.pestana1, text="Bienvenido a Medicina General", bg = "light slate blue", font= ("Comic Sans MS", 18)).pack()
         ################################# PESTAÑA 1 COMUNA 1 #################################################
-        self.texto_Comunas = Label(self.pestana1, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana1, text = "Cra.43b #108 - 6  Centro de salud popular 1 \n 3138313938",wraplength= 350).pack()
         self.texto_Comunas2 = Label(self.pestana1, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas3 = Label(self.pestana1, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas4 = Label(self.pestana1, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -820,9 +820,9 @@ class Login_Polimed:
         
         self.texto_Comunas = Label(self.pestana12, text = "Cra. 87 # 47-32 Optilux \n 3134840521",wraplength= 350).pack()
         self.texto_Comunas2 = Label(self.pestana12, text = "Cl. 47DD #87-4 Infocus optica \n 4088407",wraplength= 350).pack()
-        self.texto_Comunas3 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas4 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas5 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas3 = Label(self.pestana12, text = "Cl.46 #5310 Gran visual optica \n 3204253397",wraplength= 350).pack()
+        self.texto_Comunas4 = Label(self.pestana12, text = "Calle 50 #46-41 local 105 visual confort \n 3013802734",wraplength= 350).pack()
+        self.texto_Comunas5 = Label(self.pestana12, text = "Cra. 44 #48-71 Opti servicios \n 6042390680",wraplength= 350).pack()
         self.texto_Comunas6 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas7 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas8 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -837,8 +837,8 @@ class Login_Polimed:
         
         ######################## PESTAÑA 13 COMUNA 13 ##############################################
         
-        self.texto_Comunas = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana13, text = "Cl. 42 # 101114 Óptica Servisalud \n 3157204455",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana13, text = "",wraplength= 350).pack()
         self.texto_Comunas3 = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas4 = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas5 = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -856,11 +856,11 @@ class Login_Polimed:
         
         ########################## PESTAÑA 14 COMUNA 14 ############################################
         
-        self.texto_Comunas = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas3 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas4 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas5 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana14, text = "Cra. 42 #7a Sur-143 Óptica colombiana S.A.S loc 1214 \n 43217025",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana14, text = "Sur 170,Carrera 43 A #7 Multiopticas \n 43213339",wraplength= 350).pack()
+        self.texto_Comunas3 = Label(self.pestana14, text = "Cra. 48 #19 A-40 Doctoralia \n 320332244 ",wraplength= 350).pack()
+        self.texto_Comunas4 = Label(self.pestana14, text = "Carrera 43, Cl. 9 Sur # 36 HD Ópticas Poblado \n 6045017102",wraplength= 350).pack()
+        self.texto_Comunas5 = Label(self.pestana14, text = "Cll 9 A # 29 62 Apto 804 Optica el tercer ojo \n 3505476571",wraplength= 350).pack()
         self.texto_Comunas6 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas7 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas8 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -875,8 +875,8 @@ class Login_Polimed:
         
         ######################### PESTAÑA 15 COMUNA 15 ############################################
         
-        self.texto_Comunas = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana15, text = "Cra. 52 #1-19 Optivisual \n 46062226",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana15, text = "Calle 13 A sur 52 A 61 Optidubra \n 3227682772",wraplength= 350).pack()
         self.texto_Comunas3 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas4 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas5 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -894,8 +894,8 @@ class Login_Polimed:
         
         ####################### PESTAÑA 16 COMUNA 16 ################################################
         
-        self.texto_Comunas = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana16, text = "Cra. 70 #1 - 18 Local 377 Lafam-Arkadia \n 316349",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana16, text = "",wraplength= 350).pack()
         self.texto_Comunas3 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas4 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas5 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
