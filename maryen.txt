@@ -1,0 +1,50 @@
+########que genere el triangulo de floid
+########dada una frase la separe por palabras
+########dada una frase reemplaar un caracter
+########dada una frase generar un triangulo equilatero
+#dada una frase invertir las letras de la frase
+#invertir las palabras de las frases
+########edad una frase decir si es palindromo o no
+
+modulo_Cambiodeletra(palabra)
+
+    definir i como entero
+    palabrasCambio[], i = 0
+    leer cambiarletra
+    para (k=0,longitud(palabra)-1, 1) haga
+        palabrasCambio=[i] = palabra[k]
+            si palabrasCambio[i] == cambiarletra entonces
+              palabrasCambio[i] = "p"
+            finsi
+        i+=1
+    finpara
+       
+    return(palabrasCambio)
+finmodulo
+
+modulo_palabras()
+
+    inicio()
+    definir i como entero
+    definir palabra como Cadena
+
+    i = 0 
+    palabra = "Hola mundo que tal"
+
+    SaltoEspacio(palabra)
+finmodulo    
+
+
+modulo invertirpalabras()
+
+    definir i como entero
+    fraseinvertida [], i = 0
+    para (k=0, longitud(frase) - 1, 1) hacer
+            fraseinvertada[i] = frase[k-1]
+            i+=1
+        finsi
+    finpara
+    return (fraseinvertida)
+finmodulo
+
+
