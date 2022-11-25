@@ -313,14 +313,14 @@ class Login_Polimed:
         
         ###################### PESTAÑA 10 COMUNA 10 #########################################################
         
-        self.texto_Comunas = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas3 = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas4 = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas5 = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas6 = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas7 = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas8 = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana10, text = "Cl 50 N°46B-60 Coosalud EPS \n 60448372880 ",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana10, text = "Cl 50 #46 36 colmedicos S.A.S \n 60445100500",wraplength= 350).pack()
+        self.texto_Comunas3 = Label(self.pestana10, text = "Cra. 46 #47-66 IPS Esalud \n 3016569147",wraplength= 350).pack()
+        self.texto_Comunas4 = Label(self.pestana10, text = "Cl. 51 #45-93 Clinica Soma \n 6045768400",wraplength= 350).pack()
+        self.texto_Comunas5 = Label(self.pestana10, text = "Cra. 45 #5063 Nueva Eps \n 6044335540",wraplength= 350).pack()
+        self.texto_Comunas6 = Label(self.pestana10, text = "a 49-124, Av carabobo #492 Congracion Mariana",wraplength= 350).pack()
+        self.texto_Comunas7 = Label(self.pestana10, text = "Cra. 49 #58-19 Clinica Victoriana",wraplength= 350).pack()
+        self.texto_Comunas8 = Label(self.pestana10, text = "Cra.56c #50-56 Fundacion Medico preventiva sede colombia \n 314220870",wraplength= 350).pack()
         self.texto_Comunas9 = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas10 = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas11 = Label(self.pestana10, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -332,12 +332,12 @@ class Login_Polimed:
         
         ##################### PESTAÑA 11 COMUNA 11 ############################################################
         
-        self.texto_Comunas = Label(self.pestana11, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana11, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas3 = Label(self.pestana11, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas4 = Label(self.pestana11, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas5 = Label(self.pestana11, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas6 = Label(self.pestana11, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana11, text = "Cl. 47D #70-155 IPS \n 604543422",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana11, text = "Cra.72 #44-57 Florida Nueva \n 604432244",wraplength= 350).pack()
+        self.texto_Comunas3 = Label(self.pestana11, text = "a 34-156,Dg. 66A #34-2 Santa lucia \n 604454454",wraplength= 350).pack()
+        self.texto_Comunas4 = Label(self.pestana11, text = "Calle 66b #34A-76 Local 242 DR.Angel Contreras \n 3008828295",wraplength= 350).pack()
+        self.texto_Comunas5 = Label(self.pestana11, text = "Cl. 44A #79-145 Salud total \n 018000114524",wraplength= 350).pack()
+        self.texto_Comunas6 = Label(self.pestana11, text = "Av. 80 #49a-68 Coopsana IPS \n 6044440051",wraplength= 350).pack()
         self.texto_Comunas7 = Label(self.pestana11, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas8 = Label(self.pestana11, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas9 = Label(self.pestana11, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -351,10 +351,10 @@ class Login_Polimed:
         
         #################### PESTAÑA 12 COMUNA 12 #################################################################
         
-        self.texto_Comunas = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas3 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas4 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana12, text = "Cra. 70 #1-141 Clinica las americas \n 604434455",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana12, text = "Dg.75B #2 A - 80 Torre 2 Torre Medica las americas \n 6043417070",wraplength= 350).pack()
+        self.texto_Comunas3 = Label(self.pestana12, text = "Dg. 75B #2A-80/140 Clinica Las Americas Auna \n 6043421010",wraplength= 350).pack()
+        self.texto_Comunas4 = Label(self.pestana12, text = "Diagonal 75 Dra.Clemencia Duque Vera \n 3136460299",wraplength= 350).pack()
         self.texto_Comunas5 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas6 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas7 = Label(self.pestana12, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -370,10 +370,10 @@ class Login_Polimed:
         
         ######################## PESTAÑA 13 COMUNA 13 ##############################################
         
-        self.texto_Comunas = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas3 = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas4 = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana13, text = "Cra.105b #34bb-30 Centro de salud villa laura \n 60444920838",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana13, text = "a 39a-7, Cra. 118 #39a1 Centro de salud cuatro esquinas, la Esperanza \n 3004103000",wraplength= 350).pack()
+        self.texto_Comunas3 = Label(self.pestana13, text = "Cl. 40 veinte de julio Centro de salud San Javier \n 60442520100",wraplength= 350).pack()
+        self.texto_Comunas4 = Label(self.pestana13, text = "39b-64, Cra.109 #39b-2 Consultorio medico San vicente \n 60442537417",wraplength= 350).pack()
         self.texto_Comunas5 = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas6 = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas7 = Label(self.pestana13, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -389,15 +389,15 @@ class Login_Polimed:
         
         ########################## PESTAÑA 14 COMUNA 14 ############################################
         
-        self.texto_Comunas = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas3 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas4 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas5 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas6 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas7 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas8 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas9 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana14, text = "Cra. 46 #27-35 Colsanitas IPS \n 60443548871",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana14, text = "Cra. 43 Colsanitas Av.poblado \n 6045675544",wraplength= 350).pack()
+        self.texto_Comunas3 = Label(self.pestana14, text = "Cl. 19a #44-25 Torre medica salud y servicios \n 3102576598",wraplength= 350).pack()
+        self.texto_Comunas4 = Label(self.pestana14, text = "Cra. 48 #10-45 Botero sanin \n 6044445523 ",wraplength= 350).pack()
+        self.texto_Comunas5 = Label(self.pestana14, text = "Cl. 17 #40b-300 coomeva \n 60444157700",wraplength= 350).pack()
+        self.texto_Comunas6 = Label(self.pestana14, text = "Cra. 43B #16-95 local 2 y 5 Centro medico Manila 6046044191",wraplength= 350).pack()
+        self.texto_Comunas7 = Label(self.pestana14, text = "Cl. 14 #43b-9 Metrosalud \n 60445117505",wraplength= 350).pack()
+        self.texto_Comunas8 = Label(self.pestana14, text = "Cl. 7 #39-290 Clinica medellin \n 6043112800",wraplength= 350).pack()
+        self.texto_Comunas9 = Label(self.pestana14, text = "Cl. 7 #39 - 290 piso 3 CediMed S.A.S \n 60446040138",wraplength= 350).pack()
         self.texto_Comunas10 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas11 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas12 = Label(self.pestana14, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -408,11 +408,11 @@ class Login_Polimed:
         
         ######################### PESTAÑA 15 COMUNA 15 ############################################
         
-        self.texto_Comunas = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas3 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas4 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas5 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana15, text = "Cl. 1 sur #51B-36 Consult. medico \n 60442852682",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana15, text = "Cl. 1 #53 - 57 Centro de salud Sura \n 604443434",wraplength= 350).pack()
+        self.texto_Comunas3 = Label(self.pestana15, text = "Cl. 1c #65-85 EPS Guayabal \n 6044335533",wraplength= 350).pack()
+        self.texto_Comunas4 = Label(self.pestana15, text = "Cl. 78 #52d-141 Comfama Santa María IPS \n 604564433",wraplength= 350).pack()
+        self.texto_Comunas5 = Label(self.pestana15, text = "Carrera 55, Cl. 78 Sura EPS Comfama \n 604432244",wraplength= 350).pack()
         self.texto_Comunas6 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas7 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas8 = Label(self.pestana15, text = "sadlkasjdsa",wraplength= 350).pack()
@@ -427,13 +427,13 @@ class Login_Polimed:
         
         ####################### PESTAÑA 16 COMUNA 16 ################################################
         
-        self.texto_Comunas = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas2 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas3 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas4 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas5 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas6 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
-        self.texto_Comunas7 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
+        self.texto_Comunas = Label(self.pestana16, text = "#75,cq. 5 #42 centro medico la mota \n 6042565075 ",wraplength= 350).pack()
+        self.texto_Comunas2 = Label(self.pestana16, text = "Dg. 75B #5-106 Coomeva EPS \n 60444156000",wraplength= 350).pack()
+        self.texto_Comunas3 = Label(self.pestana16, text = "Cl. 2b #100 Centro de salud Belen Rincón \n 6042388000",wraplength= 350).pack()
+        self.texto_Comunas4 = Label(self.pestana16, text = "Cra. 84a #15A - 15 Consultorio medico \n 60443415509",wraplength= 350).pack()
+        self.texto_Comunas5 = Label(self.pestana16, text = "Cra. 83 # 27 consultorio medico \n 3162064037",wraplength= 350).pack()
+        self.texto_Comunas6 = Label(self.pestana16, text = "Cll 28 entre Cra 79A Centro de salud belen \n 60443332439 ",wraplength= 350).pack()
+        self.texto_Comunas7 = Label(self.pestana16, text = "Dg. 74B belen Ips sevid \n 60444116592",wraplength= 350).pack()
         self.texto_Comunas8 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas9 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
         self.texto_Comunas10 = Label(self.pestana16, text = "sadlkasjdsa",wraplength= 350).pack()
